@@ -1,9 +1,8 @@
 # 🚗 BMW Sales Analysis Dashboard
 
-<p align="center">
-  <img src="Screenshot 2026-07-04 233322.png" alt="BMW Sales Analysis Dashboard" width="100%">
-</p>
+## 🎥 Dashboard Demo
 
+[![BMW Dashboard Demo](./Screenshot%202026-07-04%20233322.png)](./bmw.mp4)
 ## 📌 Project Overview
 
 This project analyzes BMW vehicle sales data using Python and Power BI. The dataset was downloaded from Kaggle, cleaned and transformed using Pandas and NumPy, and then visualized through an interactive Power BI dashboard.
